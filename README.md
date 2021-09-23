@@ -18,4 +18,5 @@
 
 
 # Description
-*1st repository created by me. Practicing creating and committing to a repository*
+1. *1st repository created by me* 
+2. *Practicing creating and committing to a repository*
